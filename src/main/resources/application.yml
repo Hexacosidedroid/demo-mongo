@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://testUser:pwd@45.137.152.206:27017/Operations
